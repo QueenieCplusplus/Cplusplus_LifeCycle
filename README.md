@@ -26,6 +26,8 @@ __________________
 
 automatic obj 自動型物件 (local 變數)
 
+離開作用域 scope 時被銷毀，此物件生成時，會儲存在 stack 堆疊上，每一函數都有各自的 stack frame。
+
 __________________
 
 thread-local 物件
