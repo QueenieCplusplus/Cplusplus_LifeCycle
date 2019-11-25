@@ -15,6 +15,6 @@ temp obj 暫存物件
 
 __________________
 
-automatic obj 自動型物件
+automatic obj 自動型物件 (local 變數)
 
 TBD...尚未完成。
